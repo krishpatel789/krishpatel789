@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=%3CHello+%2CI'm++Hari+Krishna+Tulisagari%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=%3CHello++%2CI'm++Hari+Krishna%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%3E)](https://git.io/typing-svg)
 
 
 - 👨‍💻 I’m currently working on my **DataStuctures** and **Development Skills**.
