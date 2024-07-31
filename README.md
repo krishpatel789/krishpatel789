@@ -1,8 +1,4 @@
 
-# Github-Profile
-This file contains the my Github profile view.
-
-
 <link href="style.css" rel="stylesheet"></l(https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&center=true&vCenter=true&lines=%3CHello+World%2C+Hari Krishna+here!%2F%3E)
 
 
