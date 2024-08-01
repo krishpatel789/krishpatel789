@@ -97,7 +97,6 @@
 
 </div>
 
-
-[![never-give-up-gif](https://github.com/user-attachments/assets/4d7fe63b-e43b-483b-8e2c-ca25c7752ed1)
-
+<div align=center>
+<img src="https://github.com/krishpatel789/krishpatel789/blob/0b98a9c0bc6e72bff25258da974302248702ec60/never-give-up-gif.gif" alt="Coding gif" width=100%>
 
