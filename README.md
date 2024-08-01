@@ -97,3 +97,7 @@
 
 </div>
 
+<div align=center>
+![never-give-up-gif](https://github.com/user-attachments/assets/4d7fe63b-e43b-483b-8e2c-ca25c7752ed1)
+
+</div>
