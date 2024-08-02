@@ -2,14 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=%3CHello++%2CI'm++Hari+Krishna%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%3E)](https://git.io/typing-svg)
 
 
-- 👨‍💻 I’m currently working on my **DataStuctures** and **Development Skills**.
+- 👨‍💻 I’m currently working on improving my **Problem Solving Skills** and **Development Skills**.
 - 🤯 I’m currently learning  **MERN**
 - 🤩 I’m looking to collaborate and work on **Web Development Projects**
 - 👨‍🏭 **Final Year CSE Undergrad** and aspiring **Software Engineer**
 
-<!-- <a href="https://leetcode.com/Jiganesh/">
-  <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a> -->
+
 <a href="https://www.linkedin.com/in/krishpatel789">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
  </a> 
