@@ -5,7 +5,7 @@
 - 👨‍💻 I’m currently working on improving my **Problem Solving Skills** and **Development Skills**.
 - 🤯 I’m currently learning  **MERN**
 - 🤩 I’m looking to collaborate and work on **Web Development Projects**
-- 👨‍🏭 **Final Year CSE Undergrad** and aspiring **Software Engineer**
+- 👨‍🏭 ** CSE AIML grad** and aspiring **Software Engineer**
 
 
 <a href="https://www.linkedin.com/in/krishpatel789">
